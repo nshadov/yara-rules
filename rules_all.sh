@@ -17,6 +17,6 @@ md5sum ${filename}
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-find ${DIR} -type f -name "*.yar" -exec yara {} ${filename} \;
+find ${DIR} -type f \( -name "*.yar" -o -name "*.yara" \) -exec yara {} ${filename} \;
 
 echo "[+] Done :)"
