@@ -13,3 +13,24 @@
 [submodule "external/gh_sysforensics-yararules"]
 	path = external/gh_sysforensics-yararules
 	url = https://github.com/sysforensics/YaraRules
+[submodule "external/gh_cert_pl_gist001"]
+	path = external/gh_cert_pl_gist001
+	url = https://gist.github.com/6367f1bc26227705fcfade261b6ffedb.git
+[submodule "external/gh_cert_pl_gist002"]
+	path = external/gh_cert_pl_gist002
+	url = https://gist.github.com/0573a1311290061b85624b44f333cd99.git
+[submodule "external/gh_cert_pl_gist003"]
+	path = external/gh_cert_pl_gist003
+	url = https://gist.github.com/756ae39f96d2714087e6d7f252a95b19.git
+[submodule "external/gh_cert_pl_gist004"]
+	path = external/gh_cert_pl_gist004
+	url = https://gist.github.com/3407248fcaecebf6f180806f6ee6d6ad.git
+[submodule "external/gh_cert_pl_gist005"]
+	path = external/gh_cert_pl_gist005
+	url = https://gist.github.com/f13eb8b851d4bd8df89645d0c89cf60c.git
+[submodule "external/gh_cert_pl_gist006"]
+	path = external/gh_cert_pl_gist006
+	url = https://gist.github.com/5b5acf0bddc31c604fd2c19e2b6febce.git
+[submodule "external/gh_cert_pl_gist007"]
+	path = external/gh_cert_pl_gist007
+	url = https://gist.github.com/e371c4da4627a198f435ee6550a704e0.git
